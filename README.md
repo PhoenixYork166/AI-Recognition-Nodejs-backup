@@ -1,3 +1,8 @@
+<h3>Live-server:</h3>
+<h3>https://www.ai-recognition-frontend.com</h3>
+<h3>https://www.ai-recognition-backend.com</h3>
+<br/>
+
 <h3>Technologies used in this Node.js app</h3>
 <ul>
     <li>1. Node.js</li>
